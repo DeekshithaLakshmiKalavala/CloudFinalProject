@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,QuantityInStock,Price
+P001,Product A,Electronics,150,299.99
+P002,Product B,Home Appliances,75,199.99
+P003,Product C,Books,300,15.99
+P004,Product D,Furniture,20,599.99
+P005,Product E,Toys,250,29.99
+P006,Product F,Electronics,150,21.09
+P007,Product G,Home Appliances,75,39.59
+P008,Product H,Books,300,14.99
+P009,Product I,Electronics,150,21.09
+P010,Product J,Home Appliances,75,39.59
+P011,Product K,Books,300,14.99
+P012,Product  L,Toys,150,150.99
