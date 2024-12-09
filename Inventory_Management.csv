@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,QuantityInStock,Price
+P001,Mouse,Electronics,150,299.99
+P002,Fridge,Home Appliances,75,199.99
+P003,Twisted,Books,300,15.99
+P004,Tabel,Furniture,20,599.99
+P005,TeddyBear,Toys,250,29.99
+P006,HairBrush,Electronics,150,21.09
+P007,VaccumCleaner,Home Appliances,75,39.59
+P008,CloudComputing,Books,300,14.99
+P009,PowerBank,Electronics,150,21.09
+P010,Dishwasher,Home Appliances,75,39.59
+P011,HalfGirlfriend,Books,300,14.99
+P012,RemoteCar,Toys,150,150.99
+P013,WaffelMaker,Home Appliances,353,932.41
+P014,VolleyBall,Sports,289,207
+P015,Chair,Furniture,58,733.94
+P016,TeaTable,Furniture,47,648.08
+P017,HockeyStick,Sports,241,622.53
+P018,CricketBat,Sports,150,111.61
+P019,Earbuds,Electronics,401,949.46
+P020,Sofa,Home Appliances,196,692.2
+P021,ElectricMop,Home Appliances,17,901.89
+P022,KeyBoard,Electronics,214,698.43
+P023,Chair,Furniture,12,254.88
+P024,AtomicHabits,Books,450,531.32
+P025,BarbieSet,Toys,191,976.86
+P026,TennisBalls,Sports,166,142.37
+P027,BasketBall,Sports,253,193.78
+P028,Razor,Electronics,175,389.63
+P029,SportsShirts,Sports,133,489.71
+P030,Doors,Furniture,56,986.13
+P031,DreamCatcher,Toys,349,870.28
+P032,DryFruits,Groceries,85,76.7
+P033,Oven,Home Appliances,458,833.82
+P034,Phone,Electronics,97,264.52
+P035,TV,Electronics,121,268.41
+P036,CupBoards,Furniture,124,629.4
+P037,It's End with us,Books,382,971.87
+P038,RemoteGuns,Toys,180,349.57
+P039,Pasta,Groceries,211,697.42
+P040,Vegetables,Groceries,258,725.08
+P041,Sweaters,Clothing,222,972.82
+P042,Jeans,Clothing,44,28.92
+P043,CricketBall,Sports,66,949.87
+P044,ChargerAdapter,Electronics,414,927.83
+P045,Shirts,Clothing,352,254.21
+P046,CoffeeMaker,Home Appliances,436,115.95
+P047,Fruits,Groceries,266,255.17
+P048,ChargerCable,Electronics,487,805.49
+P049,SmallBalls,Toys,191,539.54
+P050,Laptop,Electronics,79,856.88
